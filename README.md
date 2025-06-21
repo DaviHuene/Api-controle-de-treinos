@@ -23,7 +23,8 @@ API desenvolvida com **FastAPI** para gerenciamento de **atletas**, **categorias
 - fastapi-pagination
 
 ---
-
+![image](https://github.com/user-attachments/assets/63e897c4-a824-4cdc-8fc8-d779137b93a9)
+---
 ## 🔧 Recursos da API
 
 - **Atletas**
