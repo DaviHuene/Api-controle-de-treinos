@@ -2,7 +2,7 @@ from typing import List
 from sqlalchemy import DateTime, String, Integer
 from sqlalchemy.orm import Mapped,mapped_column,relationship
 
-from contrib.models import BaseModel
+from workout_api.contrib.models import BaseModel
 
 
 class CategoriaModel(BaseModel):

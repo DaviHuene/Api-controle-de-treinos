@@ -1,8 +1,8 @@
 from typing import Annotated, Optional
 from pydantic import Field,PositiveFloat
-from categorias.schemas import CategoriaIn
-from centro_treinamento.schemas import CentroTreinamentoAtleta
-from contrib.schemas import BaseSchema, OutMixin
+from workout_api.categorias.schemas import CategoriaIn
+from workout_api.centro_treinamento.schemas import CentroTreinamentoAtleta
+from workout_api.contrib.schemas import BaseSchema, OutMixin
 
 class Atleta(BaseSchema):
     nome: Annotated[str,Field(description='Nome do atleta', example= 'joao', max_length=50)]

@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from routers import api_router
+from workout_api.routers import api_router
 import uvicorn
 
 app = FastAPI(
