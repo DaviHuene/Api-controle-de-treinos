@@ -9,8 +9,6 @@ API desenvolvida com **FastAPI** para gerenciamento de **atletas**, **categorias
 - [Recursos da API](#recursos-da-api)
 - [Estrutura dos endpoints](#estrutura-dos-endpoints)
 - [Exemplo de uso com paginação](#exemplo-de-uso-com-paginação)
-- [Licença](#licença)
-
 ---
 
 ## 🚀 Tecnologias
